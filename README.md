@@ -4,7 +4,7 @@ Author - Ishant Kumar
 
 ![Status](https://img.shields.io/badge/Live%20Demo-Available-00bfff?style=flat-square&logo=githubpages)
 ![Internship](https://img.shields.io/badge/Task%201-Level%201-orange?style=flat-square&logo=codersrank)
-![Made by Anirban](https://img.shields.io/badge/Made%20by-Anirban%20Chatterjee-blueviolet?style=flat-square)
+![Made by Ishant](https://img.shields.io/badge/Made%20by-Ishant%20Kumar-blueviolet?style=flat-square)
 
 > A **modern personal portfolio website** built using **HTML**, **CSS**, and **JavaScript** — showcasing skills, projects, and contact info.  
 > CodSoft Web Development Internship Program
