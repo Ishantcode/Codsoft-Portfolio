@@ -13,7 +13,7 @@ Author - Ishant Kumar
 
 ## 🚀 Live Demo
 
-🌐 [View Website](https://anirban4ru.github.io/Codsoft-Portfolio/)  
+🌐 [View Website](https://ishantcode.github.io/Codsoft-Portfolio/)  
 📂 [GitHub Repository](https://github.com/Ishantcode/Codsoft-Portfolio.git)
 
 ---
