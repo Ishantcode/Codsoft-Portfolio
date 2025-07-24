@@ -203,17 +203,17 @@ aboutTabs.forEach((tab) => {
                 {
                 id: 1,
                 name: "HTML - Hyper Text Markup Language",
-                icon: "assets/html.png",
+                icon: "Assets/html.png",
                 },
                 {
                 id: 2,
                 name: "CSS - Cascading Style Sheet",
-                icon: "assets/css.png",
+                icon: "Assets/css.png",
                 },
                 {
                 id: 3,
                 name: "JavaScript",
-                icon: "assets/js.png",
+                icon: "Assets/js.png",
                 },
             ];
 
@@ -287,7 +287,7 @@ const projectList = [
     description:
       "This is a vibrant and interactive landing page designed for the iconic beverage brand Fanta. The page showcases a modern, colorful UI that reflects Fanta's energetic and youthful brand identity.",
     techStack: ["HTML", "CSS", "JS"],
-    image: "/Assets/project1.png",
+    image: "Assets/project1.png",
     liveLink: "https://ishantcode.github.io/Codsoft-Landing_Page/",
     githubLink: "https://github.com/Ishantcode/Codsoft-Landing_Page.git",
   },
@@ -298,7 +298,7 @@ const projectList = [
     description:
       "A clean and responsive Basic Calculator built using HTML, CSS, and JavaScript. This project performs essential arithmetic operations like addition, subtraction, multiplication, and division.",
     techStack: ["HTML", "CSS", "JS"],
-    image: "/Assets/project2.png",
+    image: "Assets/project2.png",
     liveLink: "https://ishantcode.github.io/Codsoft-Calculator/",
     githubLink: "https://github.com/Ishantcode/Codsoft-Calculator.git",
   },
