@@ -585,7 +585,7 @@ aside h2 span {
     transition: all linear 0.3s;
 }
 
-.experience-box:hover .skill-box:hover {
+.experience-box:hover, .skill-box:hover {
     border-color: var(--blue);
     box-shadow: 5px 5px 5px var(--blue), -5px 5px 5px var(--blue), 5px -5px 5px var(--blue), -5px -5px 5px var(--blue);
 }
