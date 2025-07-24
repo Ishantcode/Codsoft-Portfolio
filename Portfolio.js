@@ -1,5 +1,3 @@
-const { projectList } = require("./projectList");
-
 const toggle = document.getElementById('menu-toggle');
 if(toggle) {
     toggle.addEventListener("change",() => {
@@ -279,6 +277,32 @@ aboutTabs.forEach((tab) => {
         }
     });
 })
+
+// PROJECT SECTION
+const projectList = [ 
+  {
+    id: 1,
+    number: "01",
+    title: "Fanta Landing Page",
+    description:
+      "This is a vibrant and interactive landing page designed for the iconic beverage brand Fanta. The page showcases a modern, colorful UI that reflects Fanta's energetic and youthful brand identity.",
+    techStack: ["HTML", "CSS", "JS"],
+    image: "Assets/project1.png",
+    liveLink: "https://ishantcode.github.io/Codsoft-Landing_Page/",
+    githubLink: "https://github.com/Ishantcode/Codsoft-Landing_Page.git",
+  },
+  {
+    id: 2,
+    number: "02",
+    title: "Basic Calculator",
+    description:
+      "A clean and responsive Basic Calculator built using HTML, CSS, and JavaScript. This project performs essential arithmetic operations like addition, subtraction, multiplication, and division.",
+    techStack: ["HTML", "CSS", "JS"],
+    image: "Assets/project2.png",
+    liveLink: "https://ishantcode.github.io/Codsoft-Calculator/",
+    githubLink: "https://github.com/Ishantcode/Codsoft-Calculator.git",
+  },
+];
 
 const project = document.querySelector(".project");
 
